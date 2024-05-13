@@ -1,0 +1,4 @@
+[submodule "test/lz4"]
+	path = test/lz4
+	url = https://github.com/lz4/lz4.git
+	branch = release
